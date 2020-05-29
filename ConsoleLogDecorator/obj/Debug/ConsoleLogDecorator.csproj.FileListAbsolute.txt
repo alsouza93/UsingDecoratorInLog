@@ -1,0 +1,7 @@
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\bin\Debug\ConsoleLogDecorator.exe.config
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\bin\Debug\ConsoleLogDecorator.exe
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\bin\Debug\ConsoleLogDecorator.pdb
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\obj\Debug\ConsoleLogDecorator.csprojAssemblyReference.cache
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\obj\Debug\ConsoleLogDecorator.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\obj\Debug\ConsoleLogDecorator.exe
+C:\Users\souza\source\repos\ConsoleLogDecorator\ConsoleLogDecorator\obj\Debug\ConsoleLogDecorator.pdb
